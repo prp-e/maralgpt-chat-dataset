@@ -1,1 +1,1 @@
-# maralgpt-chat-dataset
+# MaralGPT Chat Dataset (based on Alpaca Persian)
